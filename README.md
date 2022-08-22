@@ -1,24 +1,3 @@
-# wedding-view
+# vant2 + vue2 + vue-cli4.x配置移动端项目模板
 
-## Project setup
-```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### 配置 rem 和 按需引入 
